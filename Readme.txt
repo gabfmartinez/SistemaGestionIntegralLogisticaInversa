@@ -1,4 +1,4 @@
-Trabajo Final de 1000 Programadores Salteños Java
+SISTEMA DE GESTION INTEGRAL DE LOGISTICA INVERSA
 
 CREDENCIALES DE INGRESO 
 Administrador de sistema: 
