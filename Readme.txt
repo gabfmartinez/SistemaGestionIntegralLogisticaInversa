@@ -9,6 +9,6 @@ Usuario común:
    Pass: user
 
 Base de datos: 
-  Nombre: cinemar
+  Nombre: sistemlogistic
   Usuario: root
   Password: "admin"
