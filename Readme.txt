@@ -9,6 +9,6 @@ Usuario común:
    Pass: user
 
 Base de datos: 
-  Nombre: sistemlogistic
+  Nombre: systemlogistic
   Usuario: root
   Password: "admin"
